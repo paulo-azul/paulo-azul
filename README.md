@@ -5,8 +5,8 @@
   
    ```javascript
   let Paulo_Azul = {
-    code: [Javascript, HTML, CSS, C++, Javascript, C],
-    tools: [React, Node, Styled-Components, Next.js],
+    code: [Javascript, HTML, CSS, C++, Javascript, C, C#, Python],
+    tools: [React, Node, Next.js, Neon, PostgreeSQL],
     hardware : [arduino, raspberry_pi],
   }
   ```
