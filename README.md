@@ -1,5 +1,5 @@
   <div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans-Serif&size=21&pause=1000&color=FF79C6&width=445&lines=Hi%2C+I'm+Paulo+Teles++Serra+Azul;Computer+Engineering+Student+%7C+UFBA" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans-Serif&size=21&pause=1000&color=FF79C6&width=500&lines=Hi%2C+I'm+Paulo+Teles++Serra+Azul;Computer+Engineering+Student+%7C+UFBA&center=true&vCenter=true" alt="Typing SVG" /></a>
    </div>
 
   
@@ -13,7 +13,7 @@
 <br><br>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans-Serif&size=21&pause=1000&color=FF79C6&repeat=false&width=445&lines=My+GitHub+status" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans-Serif&size=21&pause=1000&color=FF79C6&repeat=false&width=445&lines=My+GitHub+status&center=true&vCenter=true" alt="Typing SVG" /></a>
 </div>
 
 <p align=center>
