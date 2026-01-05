@@ -20,3 +20,6 @@
   <img height="150px" src="https://statusgithub.vercel.app/api?username=paulo-azul&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" />
   <img height="150px" src="https://statusgithub.vercel.app/api/top-langs/?username=paulo-azul&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
+
+
+<br><br>
